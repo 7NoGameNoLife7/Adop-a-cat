@@ -5,7 +5,7 @@
 }
 
 :root {
-	--color-shadow: rgba(149, 157, 165, 0.2) 8px 24px;
+	--color-shadow: rgba(149, 157, 165, 0.2) 0 8px 24px;
 	--color-background: coral;
 	--colo-bg-button: lightblue;
 }
@@ -45,7 +45,7 @@ header {
 	padding: 10px 20px;
 }
 .card-body h2 {
-	margin: 10px;
+	margin: 10px 0;
 }
 .card-button {
 	border: none;
